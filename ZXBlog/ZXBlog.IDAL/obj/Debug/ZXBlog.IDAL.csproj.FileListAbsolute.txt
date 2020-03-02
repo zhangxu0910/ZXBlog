@@ -1,0 +1,13 @@
+C:\Users\xu\Desktop\张旭博客\ZXBlog\ZXBlog.IDAL\bin\Debug\ZXBlog.IDAL.dll
+C:\Users\xu\Desktop\张旭博客\ZXBlog\ZXBlog.IDAL\bin\Debug\ZXBlog.IDAL.pdb
+C:\Users\xu\Desktop\张旭博客\ZXBlog\ZXBlog.IDAL\bin\Debug\EntityFramework.dll
+C:\Users\xu\Desktop\张旭博客\ZXBlog\ZXBlog.IDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xu\Desktop\张旭博客\ZXBlog\ZXBlog.IDAL\bin\Debug\ZXBlog.Model.dll
+C:\Users\xu\Desktop\张旭博客\ZXBlog\ZXBlog.IDAL\bin\Debug\ZXBlog.Model.pdb
+C:\Users\xu\Desktop\张旭博客\ZXBlog\ZXBlog.IDAL\bin\Debug\ZXBlog.Model.dll.config
+C:\Users\xu\Desktop\张旭博客\ZXBlog\ZXBlog.IDAL\bin\Debug\EntityFramework.xml
+C:\Users\xu\Desktop\张旭博客\ZXBlog\ZXBlog.IDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xu\Desktop\张旭博客\ZXBlog\ZXBlog.IDAL\obj\Debug\ZXBlog.IDAL.csprojAssemblyReference.cache
+C:\Users\xu\Desktop\张旭博客\ZXBlog\ZXBlog.IDAL\obj\Debug\ZXBlog.IDAL.csproj.CopyComplete
+C:\Users\xu\Desktop\张旭博客\ZXBlog\ZXBlog.IDAL\obj\Debug\ZXBlog.IDAL.dll
+C:\Users\xu\Desktop\张旭博客\ZXBlog\ZXBlog.IDAL\obj\Debug\ZXBlog.IDAL.pdb
